@@ -1,0 +1,79 @@
+.jumbotron {
+  background-image: url(img/background.jpg);
+  background-size: cover;
+  height: 790px;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+.jumbotron .my-4 {
+  border-width: 7px;
+  width: 200px;
+}
+.jumbotron2 {
+  height: 790px;
+  text-align: right;
+  background-image: url(img/background2.jpg);
+}
+.jumbotron2 .display-4 {
+  margin-bottom: 300px;
+}
+.jumbotron .display-4 {
+  margin-top: 200px;
+}
+.jumbotron p {
+  font-size: 25px;
+}
+
+.jumbotron hr {
+  border-color: aliceblue;
+  width: 600px;
+  border-width: 10px;
+  margin: auto;
+}
+
+.ul .li .button button-primary {
+  padding: 5px 20px;
+}
+
+.paragraph {
+  font-size: 20px;
+}
+.introduce {
+  font-size: 25px;
+}
+.tomi {
+  font-size: 25px;
+}
+.gallery {
+  text-align: right;
+}
+.garis {
+  border-color: rgb(194, 176, 126);
+  border-width: 7px;
+  width: 50%;
+  margin-left: auto;
+}
+.garis1 {
+  border-color: rgb(194, 176, 126);
+  border-width: 7px;
+  width: 50%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.arrow {
+  margin-right: auto;
+  color: black;
+}
+.makanan1 {
+  border-style: solid;
+  border-width: 5px;
+}
+
+.dropdown-menu .a {
+  padding-bottom: 5px;
+}
