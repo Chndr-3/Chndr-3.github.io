@@ -40,8 +40,9 @@
 .paragraph {
   font-size: 20px;
 }
-.introduce {
-  font-size: 25px;
+.intoduce {
+  font-size: 40px;
+  text-align: center;
 }
 .tomi {
   font-size: 25px;
