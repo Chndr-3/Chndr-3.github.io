@@ -5,9 +5,12 @@
   text-align: center;
   padding: 0px;
   margin: 0px;
-  size:100%;
 }
 
+.jumbotron .my-4 {
+  border-width: 7px;
+  width: 200px;
+}
 .jumbotron2 {
   height: 790px;
   text-align: right;
@@ -48,14 +51,14 @@
 }
 .garis {
   border-color: rgb(194, 176, 126);
-  border-width: 10px;
-  width: 33.5cm;
+  border-width: 7px;
+  width: 50%;
   margin-left: auto;
 }
 .garis1 {
   border-color: rgb(194, 176, 126);
-  border-width: 10px;
-  width: 33.5cm;
+  border-width: 7px;
+  width: 50%;
 }
 
 html {
